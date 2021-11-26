@@ -9,7 +9,7 @@ sections:
     text: >
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      mentored, help peers, get help in return.
     actions:
       - type: Button
         label: Sign up
@@ -135,7 +135,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
